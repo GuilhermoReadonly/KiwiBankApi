@@ -8,7 +8,8 @@ import logging
     
 
 """
-The purpose of this main file is to show how to use the KiwiBankApi
+The purpose of this main file is to show how to use the KiwiBankApi.
+Of course all the logins, keepsafe and bank account informations here are fakes and need to be replaced by your own.
 """
 if __name__ == '__main__':
     
