@@ -6,7 +6,7 @@ This piece of code was part of a personal project where i needed to extract and 
 
 At the moment it is only capable of :
 - login
-- resolve the KeepSafe chalenge ( I don't understand why this is supposed to keep us safe...)
+- resolve the KeepSafe challenge ( I don't understand why this is supposed to keep us safe...)
 - return your Deposits & withdrawals in CSV format
 - logout
 
