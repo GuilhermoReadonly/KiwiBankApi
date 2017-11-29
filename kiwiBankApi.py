@@ -70,7 +70,7 @@ class KiwiBankApi(object):
         letter1 = str(reponse[index[0]]) 
         letter2 = str(reponse[index[1]]) 
         
-        self.logger.info('Chalenge is : ' + challenge) 
+        self.logger.info('Challenge is : ' + challenge) 
         self.logger.info('Response : letter 1: ' + letter1 + ' letter 2: ' + letter2)
 
 
